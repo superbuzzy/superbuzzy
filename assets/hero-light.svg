@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">superbuzzy — Agent systems and knowledge engineering</title>
+<desc id="desc">An editorial tech banner with a small interconnected agent, knowledge, tools, memory and trace diagram.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#f4f9fd"/><stop offset="100%" stop-color="#deedf7"/></linearGradient>
+  <radialGradient id="halo"><stop offset="0%" stop-color="#1e65b0" stop-opacity=".20"/><stop offset="100%" stop-color="#1e65b0" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#9bbfd2" stroke-width=".5" fill="none"/></pattern>
+  <clipPath id="rounded"><rect x="1" y="1" width="1198" height="338" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#rounded)">
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="340" fill="url(#grid)" opacity=".25"/>
+  <circle cx="997" cy="160" r="280" fill="url(#halo)"/>
+  <path d="M732 -10L583 350" stroke="#9bbfd2" stroke-width="1" opacity=".5"/>
+  <path d="M695 -10L546 350" stroke="#9bbfd2" stroke-width="1" opacity=".25"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <rect x="68" y="46" width="9" height="9" rx="2" fill="#007e81"/>
+    <text x="92" y="55" font-size="14" font-weight="700" letter-spacing="3" fill="#64889d">AGENT SYSTEMS  /  ENGINEERING</text>
+    <text x="62" y="164" font-size="76" font-weight="800" letter-spacing="-2.5" fill="#123048">SUPERBUZZY</text>
+    <text x="68" y="214" font-size="25" font-weight="500" fill="#47687e">Building agents that can act.</text>
+    <rect x="68" y="250" width="48" height="3" rx="1.5" fill="#007e81"/>
+    <text x="130" y="257" font-size="15" letter-spacing="1.4" fill="#64889d">RETRIEVAL   /   MEMORY   /   TOOLING   /   GOVERNANCE</text>
+    <text x="68" y="307" font-size="13" letter-spacing="2" fill="#64889d">DESIGN · BUILD · ITERATE</text>
+  </g>
+  <g opacity=".54" fill="none" stroke="#5d9bab" stroke-width="1.2" stroke-dasharray="4 6">
+    <circle cx="990" cy="174" r="128"/>
+    <circle cx="990" cy="174" r="93"/>
+  </g>
+  <g fill="none" stroke="#5d9bab" stroke-width="2" stroke-linecap="round">
+    <path d="M 941 146 L 883 108"/>
+    <path d="M 1036 142 L 1090 104"/>
+    <path d="M 1040 206 L 1080 244"/>
+    <path d="M 940 207 L 881 252"/>
+  </g>
+  <circle cx="990" cy="174" r="61" fill="#e7f3fb" stroke="#007e81" stroke-width="2.2"/>
+  <circle cx="990" cy="174" r="51" fill="none" stroke="#97c0d6" stroke-width="1"/>
+  <circle cx="990" cy="147" r="5.5" fill="#007e81"/>
+  <text x="990" y="180" fill="#123048" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="800" letter-spacing="1.6" text-anchor="middle">AGENT</text>
+  <text x="990" y="198" fill="#47687e" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1.3" text-anchor="middle">RUNTIME</text>
+  <g><rect x="778" y="73" width="137" height="40" rx="12" fill="#e7f3fb" stroke="#97c0d6" stroke-width="1.4"/><text x="846.5" y="98" font-family="Arial,Helvetica,sans-serif" font-size="14" text-anchor="middle" letter-spacing="1.1" fill="#47687e" font-weight="700">KNOWLEDGE</text></g>
+  <g><rect x="1072" y="70" width="96" height="40" rx="12" fill="#e7f3fb" stroke="#97c0d6" stroke-width="1.4"/><text x="1120" y="95" font-family="Arial,Helvetica,sans-serif" font-size="14" text-anchor="middle" letter-spacing="1.1" fill="#47687e" font-weight="700">TOOLS</text></g>
+  <g><rect x="1072" y="248" width="106" height="40" rx="12" fill="#e7f3fb" stroke="#97c0d6" stroke-width="1.4"/><text x="1125" y="273" font-family="Arial,Helvetica,sans-serif" font-size="14" text-anchor="middle" letter-spacing="1.1" fill="#47687e" font-weight="700">MEMORY</text></g>
+  <g><rect x="785" y="253" width="99" height="40" rx="12" fill="#e7f3fb" stroke="#97c0d6" stroke-width="1.4"/><text x="834.5" y="278" font-family="Arial,Helvetica,sans-serif" font-size="14" text-anchor="middle" letter-spacing="1.1" fill="#47687e" font-weight="700">TRACE</text></g>
+  <g fill="#4691b8" opacity=".75">
+    <circle cx="753" cy="69" r="2.3"/><circle cx="1150" cy="170" r="2.3"/>
+    <circle cx="768" cy="197" r="2"/><circle cx="1041" cy="42" r="1.8"/>
+    <circle cx="1148" cy="296" r="2"/><circle cx="881" cy="39" r="2"/>
+  </g>
+</g>
+<rect x="1" y="1" width="1198" height="338" rx="22" fill="none" stroke="#c8dce8" stroke-width="2"/>
+</svg>
